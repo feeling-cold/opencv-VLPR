@@ -7,4 +7,4 @@
 ***原作者 https://github.com/duanshengliu/End-to-end-for-chinese-plate-recognition***
 本人只是魔改界面
 利用对图片每一帧图像加入视频分析模块
-
+gitee 项目地址 https://gitee.com/feeling-cool/VLPR
