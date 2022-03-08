@@ -1,4 +1,4 @@
-基于深度学习opencv的车牌识别系统
+基于深度学习的车牌识别系统
 
 
 基于https://github.com/duanshengliu/End-to-end-for-chinese-plate-recognition作者的现有系统进行
